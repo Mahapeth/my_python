@@ -1,3 +1,4 @@
+import random
 y=int(input("Введите ваше число от 0 до 9: "))
 def random_game(x):
     return random.randint(1,4)
